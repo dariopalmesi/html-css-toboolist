@@ -1,0 +1,22 @@
+:root {
+    --tobo-white: #fff;
+    --tobo-primary: #68bcf4;
+    --tobo-secodary: #45abe9;
+    --tobo-Q1: #9c72e4;
+    --tobo-recruting: #64c0a8;
+    --tobo-mobile: #f29e33;
+    --tobo-web: #d863a0;
+    --tobo-sales: #b0c926;
+}
+
+#logo-img{
+    display: inline-block;
+    vertical-align: middle;
+}
+#logo-text{
+    display: inline-block;
+    width: 500px;
+}
+.container-header{
+    border-bottom: 3px;
+}
