@@ -18,5 +18,22 @@
     width: 500px;
 }
 .container-header{
-    border-bottom: 3px;
+    margin-bottom: 3rem;
+}
+.container-main{
+    width: 50%;
+    margin: auto;   
+}
+
+.task{
+    border-radius: 10%;
+    width: 100px;
+    height: 50px;
+    background-color: #68bcf4 ;
+}
+#add-section{
+    border-radius: 10%;
+    width: 300px;
+    height: 40px; 
+    text-align: center; 
 }
