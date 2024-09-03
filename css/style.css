@@ -21,6 +21,9 @@ body{
     display: inline-block;
     width: 500px;
 }
+#section-border{
+    border-bottom: 2px solid grey;
+}
 
 .suse{
   font-family: "SUSE", sans-serif;
