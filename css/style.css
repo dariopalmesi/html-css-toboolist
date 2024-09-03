@@ -17,7 +17,12 @@
 #logo-text {
     display: inline-block;
     width: 500px;
+    font-style:italic;
 }
+
+.suse{
+  font-family: "SUSE", sans-serif;
+  }
 
 .container-header {
     margin-bottom: 3rem;
